@@ -1,0 +1,14 @@
+Variable,Frequency (Mode),25th Percentile,50th Percentile,75th Percentile,Completeness (%),Mean,Median,Mode,Standard Deviation,Variance,Skewness,Kurtosis
+Loan_ID,"LP002990: 0.2%, LP001002: 0.2%, LP001003: 0.2%, etc.",-,-,-,100.0,-,-,LP001002,-,-,-,-
+Gender,"Male: 79.6%, Female: 18.2%, ",-,-,-,97.88,-,-,Male,-,-,-,-
+Married,"Yes: 64.8%, No: 34.7%, ",-,-,-,99.51,-,-,Yes,-,-,-,-
+Dependents,"0: 56.2%, 1: 16.6%, 2: 16.4%, 3+: 8.3%, ",-,-,-,97.56,-,-,0,-,-,-,-
+Education,"Graduate: 78.2%, Not Graduate: 21.8%, ",-,-,-,100.0,-,-,Graduate,-,-,-,-
+Self_Employed,"No: 81.4%, Yes: 13.4%, ",-,-,-,94.79,-,-,No,-,-,-,-
+ApplicantIncome,- (Numerical),2877.5,3812.5,5795.0,100.0,5403.46,3812.5,2500,6109.04,37320390.17,6.54,60.54
+CoapplicantIncome,- (Numerical),0.0,1188.5,2297.25,100.0,1621.25,1188.5,0.0,2926.25,8562929.52,7.49,84.96
+LoanAmount,- (Numerical),100.0,128.0,168.0,96.42,146.41,128.0,120.0,85.59,7325.19,2.68,10.4
+Loan_Amount_Term,- (Numerical),360.0,360.0,360.0,97.72,342.0,360.0,360.0,65.12,4240.67,-2.36,6.67
+Credit_History,"1.0: 77.4%, 0.0: 14.5%, ",-,-,-,91.86,-,-,1.0,-,-,-,-
+Property_Area,"Semiurban: 37.9%, Urban: 32.9%, Rural: 29.2%, ",-,-,-,100.0,-,-,Semiurban,-,-,-,-
+Loan_Status,"Y: 68.7%, N: 31.3%, ",-,-,-,100.0,-,-,Y,-,-,-,-
