@@ -1,0 +1,13 @@
+Variable,Frequency (Mode),25th Percentile,50th Percentile,75th Percentile,Completeness (%),Mean,Median,Mode,Standard Deviation,Variance,Skewness,Kurtosis
+Gender,"Male: 79.6%, Female: 18.2%, ",N/A,N/A,N/A,97.88,N/A,N/A,Male,N/A,N/A,N/A,N/A
+Married,"Yes: 64.8%, No: 34.7%, ",N/A,N/A,N/A,99.51,N/A,N/A,Yes,N/A,N/A,N/A,N/A
+Dependents,"0: 56.2%, 1: 16.6%, 2: 16.4%, 3+: 8.3%, ",N/A,N/A,N/A,97.56,N/A,N/A,0,N/A,N/A,N/A,N/A
+Education,"Graduate: 78.2%, Not Graduate: 21.8%, ",N/A,N/A,N/A,100,N/A,N/A,Graduate,N/A,N/A,N/A,N/A
+Self_Employed,"No: 81.4%, Yes: 13.4%, ",N/A,N/A,N/A,94.79,N/A,N/A,No,N/A,N/A,N/A,N/A
+ApplicantIncome,N/A (Numerical),2877.5,3812.5,5795,100,5403.46,3812.5,2500,6109.04,37320390.17,6.54,60.54
+CoapplicantIncome,N/A (Numerical),0,1188.5,2297.25,100,1621.25,1188.5,0,2926.25,8562929.52,7.49,84.96
+LoanAmount,N/A (Numerical),100,128,168,96.42,146.41,128,120,85.59,7325.19,2.68,10.4
+Loan_Amount_Term,N/A (Numerical),360,360,360,97.72,342,360,360,65.12,4240.67,-2.36,6.67
+Credit_History,"1.0: 77.4%, 0.0: 14.5%, ",N/A,N/A,N/A,91.86,N/A,N/A,1,N/A,N/A,N/A,N/A
+Property_Area,"Semiurban: 37.9%, Urban: 32.9%, Rural: 29.2%, ",N/A,N/A,N/A,100,N/A,N/A,Semiurban,N/A,N/A,N/A,N/A
+Loan_Status,"Y: 68.7%, N: 31.3%, ",N/A,N/A,N/A,100,N/A,N/A,Y,N/A,N/A,N/A,N/A

@@ -1,0 +1,13 @@
+Variable,Type of Data,Data Type,Measurement Level,Units,Range,Min Value,Top Value,Unique Values,Null Values,Outliers
+Gender,Categorical,String (Text),Nominal,-,"Male, Female",Female,Male,2,13,No
+Married,Categorical,String (Text),Nominal,-,"No, Yes",No,Yes,2,3,No
+Dependents,Categorical,String (Text),Ordinal,Count,"0, 1, 2, etc.",3+,0,4,15,No
+Education,Categorical,String (Text),Ordinal,-,"Graduate, Not Graduate",Not Graduate,Graduate,2,0,No
+Self_Employed,Categorical,String (Text),Nominal,-,"No, Yes",Yes,No,2,32,No
+ApplicantIncome,Numerical,Integer,Discrete,Currency ($),150 - 81000,150,81000,505,0,"Yes, < 0 or > 10171.2"
+CoapplicantIncome,Numerical,Float,Continuous,Currency ($),0.0 - 41667.0,0,41667,287,0,"Yes, < 0 or > 5743.1"
+LoanAmount,Numerical,Float,Continuous,Currency (1000s),9.0 - 700.0,9,700,203,22,"Yes, < 0 or > 270.0"
+Loan_Amount_Term,Numerical,Float,Continuous,Months,12.0 - 480.0,12,480,10,14,"Yes, < 360.0 or > 360.0"
+Credit_History,Categorical,Float,Nominal,Binary (1/0),"1.0, 0.0",0,1,2,50,No
+Property_Area,Categorical,String (Text),Nominal,-,"Urban, Rural, Semiurban",Rural,Semiurban,3,0,No
+Loan_Status,Categorical,String (Text),Nominal,-,"Y, N",N,Y,2,0,No
