@@ -1,0 +1,10 @@
+Variable,Type of Data,Data Type,Measurement Level,Units,Range,Min Value,Top Value,Unique Values,Null Values,Outliers
+dependents,Categorical,Integer,Ordinal,Count,"0, 1, 2, 4",-,0.0,4,0,No
+education,Categorical,Integer,Ordinal,-,"0, 1",-,0.0,2,0,No
+self_employed,Categorical,Integer,Nominal,-,"0, 1",-,0.0,2,0,No
+loan_amount_term,Numerical,Float,Discrete,Months,12.0 - 480.0,12.0,480.0,10,0,No
+credit_history,Categorical,Float,Nominal,Binary (1/0),"0.0, 1.0",-,1.0,2,0,No
+property_area,Categorical,Integer,Nominal,-,"0, 1, 2",-,1.0,3,0,No
+loan_status,Categorical,Integer,Nominal,-,"0, 1",-,1.0,2,0,No
+total_income_log,Numerical,Float,Continuous,log value,7.46 - 9.67,7.46,9.67,518,0,No
+loan_amount_log,Numerical,Float,Continuous,log value,3.86 - 5.57,3.86,5.57,156,0,No
